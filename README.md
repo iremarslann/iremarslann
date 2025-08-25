@@ -5,7 +5,8 @@
 - 🌴 I'm based in Fort Lauderdale, FL  
 - 🖥️ See my portfolio at [My Portfolio](https://irem-portfolio.vercel.app/#projects)  
 - 📧 You can contact me at [arslaniremx@gmail.com](mailto:arslaniremx@gmail.com)  
-- 🚀 I just finished making [Spotify-Compose-App](https://github.com/iremarslann/Spotify-Compose-App)  
+- 🚀 I just finished making [Spotify-Compose-App](https://github.com/iremarslann/Spotify-Compose-App)
+- 👩🏻‍💻 I am currently working on [Aurelia](https://github.com/iremarslann/Aurelia-) 
 - 🧠 I'm learning GoLang right now!
 
 ### Skills
